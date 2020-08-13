@@ -1,5 +1,4 @@
-import * as React from "react"
-import { useContext, useState, useEffect, useRef } from "react"
+import React, { useContext, useState, useEffect, useRef } from "react"
 
 import { NextPage } from "next"
 import Link from "next/link"
@@ -47,7 +46,7 @@ const MenuBar: NextPage<Props> = ({}) => {
         </div>
         <div className="text-xl text-white font-bold tracking-tight ml-2">
           <Link href={`/`}>
-            <a>Next.js TailwindCSS Starter</a>
+            <a>ineednew.tech</a>
           </Link>
         </div>
       </div>
