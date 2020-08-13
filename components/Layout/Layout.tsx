@@ -27,7 +27,7 @@ const Layout: NextPage<Props> = ({ children }) => {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
         />
-        <title>Next.js TailwindCSS Starter</title>
+        <title>I Need New Tech</title>
         <meta
           name="description"
           content="A Shopping Cart built with TypeScript, NextJS, React, Apollo Client, Shopify Storefront GraphQL API, and TailwindCSS."
