@@ -1,6 +1,6 @@
-# Next Shopify Storefront
+# I Need New Tech
 
-A super simple boilerplate for your Next.js web app built with TypeScript, NextJS, React, and TailwindCSS.
+A little something to help people find the right new smart device or computer.
 
 ## Technologies
 
