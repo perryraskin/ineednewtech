@@ -29,7 +29,7 @@
     "dotenv": "^8.2.0",
     "dotenv-webpack": "^2.0.0",
     "ebay-node-api": "^2.8.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fonoapi-nodejs": "^0.1.1",
     "fs": "0.0.1-security",
     "lodash": "^4.17.19",
